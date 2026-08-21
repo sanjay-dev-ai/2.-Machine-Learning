@@ -163,33 +163,6 @@ RandomForestRegressor(
 
 **0.8667**
 
-## Project Structure
-
-```text
-Regression Assignment/
-│
-├── README.md
-├── insurance_pre.csv
-├── Regression_Assignment_Insurance_Charges.pdf
-│
-├── Models/
-│   ├── 1. Multiple Linear Regression.ipynb
-│   ├── 2. SVM_Regression_without_standardization.ipynb
-│   ├── 3. Decision_Tree.ipynb
-│   └── 4. Random_Forest_regression.ipynb
-│
-├── Automation/
-│   ├── Automation_SVM.ipynb
-│   ├── Automation_Decision_Tree.ipynb
-│   └── Automation_Random_Forest_regression.ipynb
-│
-└── Final Model/
-    ├── README.md
-    ├── Random_Forest_regression_Phase-1_Model_Creation.ipynb
-    ├── Random_Forest_regression_Phase-2_Deployment.ipynb
-    └── final_Model_Insurance_Charges_Predict.sav
-```
-
 ## Technologies Used
 
 - Python
